@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true,
+        "**/__init__.py": false
+    },
+    "symbols.folders.associations": {
+        "drivers": "folder-green",
+        "redis": "folder-red",
+        "pgsql": "folder-blue",
+        "errors": "folder-red",
+        "views": "folder-green",
+        "http_types": "folder-purple",
+        "schemas": "folder-blue"
+    }
+}
