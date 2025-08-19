@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "Atomação para geração de QRCode PIX na plataforma PerfectPay"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "cuid>=0.4",
+    "python-dotenv>=1.1.1",
+    "requests>=2.31.0",
+    "selenium>=4.15.0",
+]
