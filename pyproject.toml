@@ -1,0 +1,7 @@
+[project]
+name = "perfectpay-generate-qrcodepix"
+version = "0.1.0"
+description = "Atomação para geração de QRCode PIX na plataforma PerfectPay"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
